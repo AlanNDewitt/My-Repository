@@ -1,2 +1,2 @@
-# My-Repository
+# My-Repo
 some things
